@@ -4,7 +4,7 @@
 🚀 AWS & DevOps Engineer | Terraform | Linux | CI/CD | Cloud Infrastructure  
 ✍️ Technical Blogger on Hashnode | Hands-on Cloud Projects
 
-🔹 About Me
+# About Me
 I am a DevOps Engineer with hands-on experience in AWS, Linux, Terraform, and CI/CD pipelines.
 I enjoy building cloud infrastructure, automating deployments, and writing detailed technical blogs
 to explain real-world DevOps concepts in a simple and practical way.
@@ -26,7 +26,6 @@ to explain real-world DevOps concepts in a simple and practical way.
 - **Tools:** ServiceNow, JIRA
 
 
-🔹 Contact
 ## 📫 Connect With Me
 
 - Hashnode: https://hashnode.com/@danisheikh2210
