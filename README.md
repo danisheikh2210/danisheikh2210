@@ -1,4 +1,8 @@
 ## Hi there 👋
+# Hi 👋 I'm Danish Sheikh
+
+🚀 AWS & DevOps Engineer | Terraform | Linux | CI/CD | Cloud Infrastructure  
+✍️ Technical Blogger on Hashnode | Hands-on Cloud Projects
 
 <!--
 **danisheikh2210/danisheikh2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
